@@ -1,0 +1,7 @@
+<2>
+<course><Computer Science>
+<Module><IMAT3423><Systems Building: Methods><15><true><TERM_1>
+<Module><IMAT3423><Systems Building: Methods><15><true><TERM_1>
+<course><Software Engineering>
+<addModule><0><IMAT3423>
+<end>
